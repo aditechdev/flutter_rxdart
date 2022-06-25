@@ -1,4 +1,4 @@
-# testing_rxdart
+# Learning rxdart
 
 A new Flutter project.
 
